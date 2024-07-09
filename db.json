@@ -1,0 +1,60 @@
+{
+  "mesas": [
+    {
+      "id": "6978",
+      "nombre": "lab4",
+      "fecha": "2024-03-07",
+      "alumnos": []
+    }
+  ],
+  "alumnos": [
+    {
+      "id": "0",
+      "dni": "43349102",
+      "nombre": "santino",
+      "apellido": "basso"
+    },
+    {
+      "id": "1",
+      "dni": "45123221",
+      "nombre": "delfina",
+      "apellido": "basso"
+    },
+    {
+      "id": "2",
+      "dni": "451123323",
+      "nombre": "tomas",
+      "apellido": "pereyra"
+    },
+    {
+      "id": "3",
+      "dni": "49233213",
+      "nombre": "ramon",
+      "apellido": "ramirez"
+    },
+    {
+      "id": "4",
+      "dni": "41231312",
+      "nombre": "franco",
+      "apellido": "cardozo"
+    },
+    {
+      "id": "5",
+      "dni": "34569275",
+      "nombre": "ernesto",
+      "apellido": "zapata"
+    },
+    {
+      "id": "6",
+      "dni": "10000001",
+      "nombre": "javier",
+      "apellido": "loguera"
+    },
+    {
+      "id": "7",
+      "dni": "20000008",
+      "nombre": "kiko",
+      "apellido": "gutierrez"
+    }
+  ]
+}
